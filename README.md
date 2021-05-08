@@ -1,6 +1,6 @@
 # RAAN Case Study Interns
 
-<i>In the link I sent by email, you can find my article about this work, with depper explanations.</i>
+<i>In the link I sent by email, you can find my article about this work, with deeper explanations.</i>
 
 In this repository you can find:
 - The 2D visualization
