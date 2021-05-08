@@ -8,7 +8,7 @@ In this repository you can find:
 - The Jupyter Notebook (Python) I created which contains all the code that I wrote to generate both the visualizations, create the web application and upload it into my hosting account.
 
 
-## How to run the Jupyter Notebook (Python)?
+## How to run the Python Notebook?
 <i>Note:  you don't need to import the dataset, since it will be automatically imported from my GoogleDrive into the Notebook when you run it.</i>
 
 You can choose to run the notebook using different environments.
